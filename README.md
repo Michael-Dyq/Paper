@@ -3,7 +3,7 @@
 **Content**
 
 [//]: <              - ** **  [[ ]](https://)                   >
-## Event
+# Event
 ## Year 2020
 - **Zero-shot Label-Aware Event Trigger and Argument Classification**  [[Hongming Zhang, Haoyu Wang, Dan Roth]](https://cogcomp.seas.upenn.edu/page/publication_view/942)
   - **Goal:**  
