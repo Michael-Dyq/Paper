@@ -3,7 +3,7 @@
 **Content**
 
 [//]: <              - ** **  [[ ]](https://)                   >
-
+## Event
 ## Year 2020
 - **Zero-shot Label-Aware Event Trigger and Argument Classification**  [[Hongming Zhang, Haoyu Wang, Dan Roth]](https://cogcomp.seas.upenn.edu/page/publication_view/942)
   - **Goal:**  
@@ -23,3 +23,5 @@
    - **Data Source:**
      1. ACE-2005, which has 33 event trigger types and 22 argument role types. 
  
+
+
