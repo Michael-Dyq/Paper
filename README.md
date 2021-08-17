@@ -28,5 +28,8 @@
 # Temporal
 ## Year 2021
 
-- **Temporal Reasoning on Implicit Events from Distant Supervision (NAACI)**  [[Ben Zhou, Kyle Richardson, Qiang Ning, Tushar Khot, Ashish Sabharwal1, Dan Roth](https://arxiv.org/abs/2010.12753)
-
+- **Temporal Reasoning on Implicit Events from Distant Supervision (NAACI)**  [Ben Zhou, Kyle Richardson, Qiang Ning, Tushar Khot, Ashish Sabharwal1, Dan Roth](https://arxiv.org/abs/2010.12753) git[https://github.com/allenai/tracie]
+  - **Goal:**
+    Propose a neuro-symbolic temporal reasoning model, SYMTIME, which exploits distant supervision signals from large-scale text and uses temporal rules to combine start times and durations to infer end times.
+   - **Core Method:**
+     1. 
