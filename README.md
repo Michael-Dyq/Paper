@@ -25,3 +25,8 @@
  
 
 
+# Temporal
+## Year 2021
+
+- **Temporal Reasoning on Implicit Events from Distant Supervision (NAACI)**  [[Ben Zhou, Kyle Richardson, Qiang Ning, Tushar Khot, Ashish Sabharwal1, Dan Roth](https://arxiv.org/abs/2010.12753)
+
