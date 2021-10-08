@@ -42,7 +42,7 @@ Context-dependent Semantic Parsing for Time Expressions
 
 - **Context-dependent Semantic Parsing for Time Expressions (ACL 2014)** [Kenton Lee, etc.](https://aclanthology.org/P14-1135.pdf)
    - **Abstract:** 
-      The goal is to find all time expressions in an input document. Problem is devided into two parts: detection and resolution(normalization). Make use of a hand-engineered Combinatory Categorial Grammar (CCG) to construct a set of meaning representations that identify the time being
+     The goal is to find all time expressions in an input document. Problem is devided into two parts: detection and resolution(normalization). Make use of a hand-engineered Combinatory Categorial Grammar (CCG) to construct a set of meaning representations that identify the time being
 described. 
    - **Core Methods:**
    - **Achievement:**
