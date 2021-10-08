@@ -35,3 +35,9 @@
      1. Use T5-Large fine-tuned on TRACIE to achieve binary prediction accuracy of 67.9% as baseline.
      2. Propose a novel distant supervision technique that improves generalization by extracting temporal patterns in large-scale free text as part of an additional pre- training step. Use large windows of text such as paragraphs in contrast to sentence level. Result a mode PINTIME(Pattern-Time) achieving 76.6% on TRACIE.
      3. Couple PTNTIME with a duration model from Zhou et al. (2020) to create a neural-symbolic reasoning model called SYMTIME, which achieves 78.9% on TRACIE.
+
+
+## Before Year 2017
+Context-dependent Semantic Parsing for Time Expressions
+
+- **Context-dependent Semantic Parsing for Time Expressions (ACL)** [Kenton Lee, etc.](https://aclanthology.org/P14-1135.pdf)
