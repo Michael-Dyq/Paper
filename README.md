@@ -31,7 +31,7 @@
 - **Temporal Reasoning on Implicit Events from Distant Supervision (NAACI)**  [Ben Zhou, Kyle Richardson, Qiang Ning, Tushar Khot, Ashish Sabharwal1, Dan Roth](https://arxiv.org/abs/2010.12753)   Git [repository](https://github.com/allenai/tracie)
    - **Abstract:**  
     Propose a neuro-symbolic temporal reasoning model, SYMTIME, which exploits distant supervision signals from large-scale text and uses temporal rules to combine start times and durations to infer end times. Introduce a new dataset **TRACIE** (TempoRAL Closure InfErence) foucses on temporal relations on implicit events in short stories.
-   - **Core Method:**
+   - **Core Methods:**
      1. Use T5-Large fine-tuned on TRACIE to achieve binary prediction accuracy of 67.9% as baseline.
      2. Propose a novel distant supervision technique that improves generalization by extracting temporal patterns in large-scale free text as part of an additional pre- training step. Use large windows of text such as paragraphs in contrast to sentence level. Result a mode PINTIME(Pattern-Time) achieving 76.6% on TRACIE.
      3. Couple PTNTIME with a duration model from Zhou et al. (2020) to create a neural-symbolic reasoning model called SYMTIME, which achieves 78.9% on TRACIE.
@@ -40,4 +40,11 @@
 ## Before Year 2017
 Context-dependent Semantic Parsing for Time Expressions
 
-- **Context-dependent Semantic Parsing for Time Expressions (ACL)** [Kenton Lee, etc.](https://aclanthology.org/P14-1135.pdf)
+- **Context-dependent Semantic Parsing for Time Expressions (ACL 2014)** [Kenton Lee, etc.](https://aclanthology.org/P14-1135.pdf)
+   - **Abstract:** 
+      The goal is to find all time expressions in an input document. Problem is devided into two parts: detection and resolution(normalization). Make use of a hand-engineered Combinatory Categorial Grammar (CCG) to construct a set of meaning representations that identify the time being
+described. 
+   - **Core Methods:**
+   - **Achievement:**
+   - **Data Source:**
+      
