@@ -37,6 +37,22 @@
      3. Couple PTNTIME with a duration model from Zhou et al. (2020) to create a neural-symbolic reasoning model called SYMTIME, which achieves 78.9% on TRACIE.
 
 
+- **Conditional Generation of Temporally-ordered Event Sequences**  [Shih-Ting Lin et al.](https://arxiv.org/abs/2012.15786)   Git [repository]
+
+   - **Abstract:**  
+    Proposes a single model of events to suupport inferenes in two tasks: (1) temporal event ordering; (2)event infilling or inferring unseen or unmentioned event infilling.
+   - **Core Methods:**
+     1. Take temporally-ordered event sequences, shuffle them, delete some events, and then attempt to recover the original event sequence. 
+     2. BART-based model.
+     3. 
+
+   - **Evaluation Methods and Data Source:**
+   - 1. EventsNarrative Dataset. (Training). Assuming discourse order reflect temporal order.
+   - 2. CaTeRS. (Evaluation). Used for both temporal relations and event infilling evaluation.
+   - 3. MCTaco. (Evaluation). For temporal relations evaluation.
+   - 4. BERT-based pairwise model and BERT-based pointerr network are used as comparison for temporal ordering task.
+   - 5. GPT-2 baselines is used as comparison for infilled events generation task.
+
 ## Before Year 2017
 Context-dependent Semantic Parsing for Time Expressions
 
