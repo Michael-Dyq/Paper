@@ -22,10 +22,20 @@
 
    - **Data Source:**
      1. ACE-2005, which has 33 event trigger types and 22 argument role types. 
+
+## NLI
+- **Connecting the Dots: Event Graph Schema Induction with Path Language Modeling (EMNLP2015)** [ Samuel R. Bowman, etc.](https://nlp.stanford.edu/pubs/snli_paper.pdf)
+   - **Abstract:** 
+
  
+## Event Schema and Script
+- **Connecting the Dots: Event Graph Schema Induction with Path Language Modeling (EMNLP2020)** [Manling Li, etc.](https://aclanthology.org/2020.emnlp-main.50/)
+   - **Abstract:** 
 
+- **The Future is not One-dimensional: Complex Event Schema Induction by Graph Modeling for Event Prediction (EMNLP2021)** [Manling Li, etc.](https://aclanthology.org/2021.emnlp-main.422/)
+   - **Abstract:** 
 
-# Temporal
+## Event Temporal
 ## Year 2021
 
 - **Temporal Reasoning on Implicit Events from Distant Supervision (NAACI)**  [Ben Zhou, Kyle Richardson, Qiang Ning, Tushar Khot, Ashish Sabharwal1, Dan Roth](https://arxiv.org/abs/2010.12753)   Git [repository](https://github.com/allenai/tracie)
