@@ -78,7 +78,7 @@ described.
 
 - **Probing Across Time: What Does RoBERTa Know and When? (2021)** [ Leo Z. Liu etc.](https://arxiv.org/pdf/2104.07885.pdf)
    - **Abstract:** 
-        Following this effort, we systematically answer a question: for various types of knowledge a language model learns, when during (pre)training are they acquired? Using RoBERTa as a case study, we find: linguistic knowledge is acquired fast, stably, and robustly across domains. Facts and commonsense are slower and more domain- sensitive. Reasoning abilities are, in general, not stably acquired. As new datasets, pretrain- ing protocols, and probes emerge, we believe that probing-across-time analyses can help researchers understand the complex, intermingled learning that these models undergo and guide us toward more efficient approaches that accomplish necessary learning faster.
+     Following this effort, we systematically answer a question: for various types of knowledge a language model learns, when during (pre)training are they acquired? Using RoBERTa as a case study, we find: linguistic knowledge is acquired fast, stably, and robustly across domains. Facts and commonsense are slower and more domain- sensitive. Reasoning abilities are, in general, not stably acquired. As new datasets, pretraining protocols, and probes emerge, we believe that probing-across-time analyses can help researchers understand the complex, intermingled learning that these models undergo and guide us toward more efficient approaches that accomplish necessary learning faster.
       
 - **How Can We Know When Language Models Know? On the Calibration of Language Models for Question Answering (2021)** [ Zhengbao Jiang etc.](https://arxiv.org/abs/2012.00955)
    - **Abstract:**   
