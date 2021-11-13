@@ -23,7 +23,7 @@
      1. ACE-2005, which has 33 event trigger types and 22 argument role types. 
 
 ## NLI
-- **Connecting the Dots: Event Graph Schema Induction with Path Language Modeling (EMNLP2015)** [ Samuel R. Bowman, etc.](https://nlp.stanford.edu/pubs/snli_paper.pdf)
+- **A large annotated corpus for learning natural language inference (EMNLP2015)** [ Samuel R. Bowman, etc.](https://nlp.stanford.edu/pubs/snli_paper.pdf)
    - **Abstract:** 
 
  
