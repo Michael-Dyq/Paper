@@ -4,8 +4,7 @@
 
 [//]: <              - ** **  [[ ]](https://)                   >
 # Event
-## Year 2020
-- **Zero-shot Label-Aware Event Trigger and Argument Classification**  [[Hongming Zhang, Haoyu Wang, Dan Roth]](https://cogcomp.seas.upenn.edu/page/publication_view/942)
+- **Zero-shot Label-Aware Event Trigger and Argument Classification (2020)**  [[Hongming Zhang, Haoyu Wang, Dan Roth]](https://cogcomp.seas.upenn.edu/page/publication_view/942)
   - **Goal:**  
      Proposed a zero-shot event extraction approach, which first identifies events with existing tools (e.g., SRL) and then maps them to a given taxonomy of event types in a zero-shot manner. 
   - **Core Method:**
@@ -35,10 +34,14 @@
 - **The Future is not One-dimensional: Complex Event Schema Induction by Graph Modeling for Event Prediction (EMNLP2021)** [Manling Li, etc.](https://aclanthology.org/2021.emnlp-main.422/)
    - **Abstract:** 
 
-## Event Temporal
-## Year 2021
+## Event Coreference
+- **BERT for Coreference Resolution: Baselines and Analysis (ACL 2019)** [ Mandar etc.](https://aclanthology.org/D19-1588/)
+   - **Abstract:** 
 
-- **Temporal Reasoning on Implicit Events from Distant Supervision (NAACI)**  [Ben Zhou, Kyle Richardson, Qiang Ning, Tushar Khot, Ashish Sabharwal1, Dan Roth](https://arxiv.org/abs/2010.12753)   Git [repository](https://github.com/allenai/tracie)
+
+## Event Temporal
+
+- **Temporal Reasoning on Implicit Events from Distant Supervision (NAACI 2021)**  [Ben Zhou, Kyle Richardson, Qiang Ning, Tushar Khot, Ashish Sabharwal1, Dan Roth](https://arxiv.org/abs/2010.12753)   Git [repository](https://github.com/allenai/tracie)
    - **Abstract:**  
     Propose a neuro-symbolic temporal reasoning model, SYMTIME, which exploits distant supervision signals from large-scale text and uses temporal rules to combine start times and durations to infer end times. Introduce a new dataset **TRACIE** (TempoRAL Closure InfErence) foucses on temporal relations on implicit events in short stories.
    - **Core Methods:**
@@ -63,9 +66,6 @@
    - 4. BERT-based pairwise model and BERT-based pointerr network are used as comparison for temporal ordering task.
    - 5. GPT-2 baselines is used as comparison for infilled events generation task.
 
-## Before Year 2017
-Context-dependent Semantic Parsing for Time Expressions
-
 - **Context-dependent Semantic Parsing for Time Expressions (ACL 2014)** [Kenton Lee, etc.](https://aclanthology.org/P14-1135.pdf)
    - **Abstract:** 
      The goal is to find all time expressions in an input document. Problem is devided into two parts: detection and resolution(normalization). Make use of a hand-engineered Combinatory Categorial Grammar (CCG) to construct a set of meaning representations that identify the time being
@@ -74,3 +74,17 @@ described.
    - **Achievement:**
    - **Data Source:**
       
+## Other Interesting topic
+
+- **Probing Across Time: What Does RoBERTa Know and When? (2021)** [ Leo Z. Liu etc.](https://arxiv.org/pdf/2104.07885.pdf)
+   - **Abstract:** 
+      Following this effort, we systematically answer a question: for various types of knowledge a language model learns, when during (pre)training are they acquired? Using RoBERTa as a case study, we find: linguistic knowledge is acquired fast, stably, and robustly across domains. Facts and commonsense are slower and more domain- sensitive. Reasoning abilities are, in general, not stably acquired. As new datasets, pretrain- ing protocols, and probes emerge, we believe that probing-across-time analyses can help researchers understand the complex, intermingled learning that these models undergo and guide us toward more efficient approaches that accomplish necessary learning faster.
+      
+- **How Can We Know When Language Models Know? On the Calibration of Language Models for Question Answering (2021)** [ Zhengbao Jiang etc.](https://arxiv.org/abs/2012.00955)
+   - **Abstract:**   
+     In this paper, we ask the question "how can we know when language models know, with confidence, the answer to a particular query?" We examine this question from the point of view of calibration, the property of a probabilistic model's predicted probabilities actually being well correlated with the probabilities of correctness. We examine three strong generative models -- T5, BART, and GPT-2 -- and study whether their probabilities on QA tasks are well calibrated, finding the answer is a relatively emphatic no. We then examine methods to calibrate such models to make their confidence scores correlate better with the likelihood of correctness through fine-tuning, post-hoc probability modification, or adjustment of the predicted outputs or inputs.    
+
+- **Title (Conference year)** [ Author etc.](link)
+   - **Abstract:** 
+   - **Achievement:**
+   - **Data Source:**
