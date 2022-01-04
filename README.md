@@ -73,6 +73,13 @@ described.
    - **Core Methods:**
    - **Achievement:**
    - **Data Source:**
+
+- **Multi-TimeLine Summarization (MTLS): Improving Timeline Summarization by Generating Multiple Summaries (ACL/IJCNLP 2021) [Yi Yu, etc.](https://www.semanticscholar.org/paper/Multi-TimeLine-Summarization-(MTLS)%3A-Improving-by-Yu-Jatowt/acf02e62879e84e359bc0fdd4bc86f87beef81a5)
+- **Contribution:**
+  - propose a novel task (MTLS), which auto-matically generates multiple, informative, and diverse timelines from an input time-stamped document collection.
+  - introduce a superior MTLS model that outperforms all TLS-adapted MTLS baselines.
+  - design an evaluation measure for MTLS systems by extending the original TLS evaluation framework (adapt the tilse framework to MTLS task).
+
       
 ## Other Interesting topic
 
